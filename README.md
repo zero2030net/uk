@@ -1,6 +1,6 @@
 https://uk.zero2030.net
 
-This is the communicative node for environmental data relating to the United Kingdom and its timeline of 2030. 
+This is the communicative node for environmental data relating to the United Kingdom and timeline of 2030. 
 
 The aim of the platform is to monitor progress toward net zero emissions for each individual entity signed up to, and in accordance with, the Paris Agreement.
 
